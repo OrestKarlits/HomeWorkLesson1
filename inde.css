@@ -1,0 +1,15 @@
+.father {
+    display: flex;
+}
+.Jennifer {
+    height: 250px;
+}
+h1 {
+    text-align: center;
+}
+li {
+    font-size: 17pt;
+}
+.li {
+    border: 2px solid red;
+}
